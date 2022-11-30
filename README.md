@@ -9,6 +9,7 @@ I'll be doing little write-ups about each solution as I do them; they are listed
 <!--- advent_readme_stars table --->
 ## 2022 Results
 
-| Day | Part 1 | Part 2 |
-| :---: | :---: | :---: |
+|                     Day                      | Part 1 | Part 2 |
+|:--------------------------------------------:|:------:|:------:|
+| [Day 1](https://adventofcode.com/2022/day/1) |   ⭐    |   ⭐    |
 <!--- advent_readme_stars table --->
