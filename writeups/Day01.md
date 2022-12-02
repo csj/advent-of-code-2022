@@ -1,6 +1,6 @@
-# Day 01: Calorie Counting
+# Day 1: Calorie Counting
 
-[Problem Statement](https://adventofcode.com/2022/day/01) | [My solution](../src/main/kotlin/puzzles/Day01.kt) | [Next >>](Day02.md)
+[Problem Statement](https://adventofcode.com/2022/day/1) | [My solution](../src/main/kotlin/puzzles/Day01.kt) | [Next >>](Day02.md)
 
 ## Part 1
 
