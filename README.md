@@ -12,4 +12,5 @@ I'll be doing little write-ups about each solution as I do them; they are listed
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
 | [Day 1](https://adventofcode.com/2022/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2022/day/2) | ⭐ |   |
 <!--- advent_readme_stars table --->
